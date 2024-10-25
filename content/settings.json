@@ -1,5 +1,5 @@
 {
-  "domain": "escolasclassicalpress.com.br",
+  "domain": "escolasclassicalpress.web.app",
   "currency_symbol": "R$",
   "primary_color": "#084f53",
   "theme": {
@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/jobflow.png",
-  "name": "Loja LER",
-  "short_name": "Loja LER",
+  "name": "escolasclassicalpress",
+  "short_name": "escolasclassicalpress",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#4f4f4f",
   "icon": "/img/uploads/fav.png",
   "store_id": 51504,
-  "description": "ministerioler",
+  "description": "escolasclassicalpress",
   "large_icon": "/img/uploads/fav.png"
 }
