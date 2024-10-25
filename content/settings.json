@@ -1,5 +1,5 @@
 {
-  "domain": "lojaler.com.br",
+  "domain": "escolasclassicalpress.com.br",
   "currency_symbol": "R$",
   "primary_color": "#084f53",
   "theme": {
@@ -7,7 +7,6 @@
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
-  "repository": "ecomplus-stores/ministerioler",
   "logo": "/img/uploads/jobflow.png",
   "name": "Loja LER",
   "short_name": "Loja LER",
